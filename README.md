@@ -1,8 +1,8 @@
-# Gentoo install guide
+# Gentoo kurulum rehberi
 
 ![gentoo_logo](https://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo/xml/images/artwork/gentoo-logo-dark-146x149.png)
 
-## Contents
+## İçerik
 
 * [Introduction](#introduction)
 * [Installation concerns](#installation-concerns)
